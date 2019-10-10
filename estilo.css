@@ -1,0 +1,54 @@
+.fondonav{
+	background-color: "#5B2C6F";
+}
+.navbar{
+        background-color:  #8A60CD;
+    
+}
+.icono{
+	width: 100px;
+}
+.vertical{
+	width: 15%;
+	height: 550px;
+background-color: blue;
+margin-left: 0px;
+}
+
+body, html, .container-fluid, .sidebar, .body {
+    height: 100%;
+    min-height: 100%;
+}
+a{
+	color:white;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+.tab{ 
+margin-top: -500px;
+	margin-left: 17%;
+height: 73%;
+width: 80%;}
+
+.tabf{ 
+margin-top: -500px;
+	margin-left: 17%;
+height: 77%;
+width: 80%;
+border: 2px;
+
+}
+
+.idf{
+  margin-right: 320px;
+
+}
